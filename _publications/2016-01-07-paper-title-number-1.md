@@ -9,7 +9,7 @@ paperurl:
 citation:
 ---
 Abstract
-====
+---
 The objective of this work is to establish the
 importance of speaker information present in the glottal regions
 of speech signal. In addition, its robustness for degraded data
