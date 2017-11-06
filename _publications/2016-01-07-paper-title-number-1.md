@@ -5,7 +5,7 @@ permalink: /publication/2016-01-07-paper-title-number-1
 excerpt: 
 date: 2015-11-04
 venue: TENCON 2015 - 2015 IEEE Region 10 Conference
-paperurl: 'http://ieeexplore.ieee.org/document/7372916/'
+paperurl: 'http://ashutosh620.github.io/files/paper1.pdf'
 citation:  
 ---
-[Download paper here](http://ieeexplore.ieee.org/document/7372916/)
+[Download paper here](http://ashutosh620.github.io/files/paper1.pdf)
