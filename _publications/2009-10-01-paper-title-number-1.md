@@ -3,7 +3,7 @@ title: "Significance of glottal activity detection for speaker verification in d
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 
-date: 
+date: 2009-10-01
 venue: 
 paperurl: 'http://ieeexplore.ieee.org/document/7372916/'
 citation: 
