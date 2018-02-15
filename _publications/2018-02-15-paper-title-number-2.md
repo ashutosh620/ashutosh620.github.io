@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-02-15-paper-title-number-2
 excerpt: 
 date: 2018-02-15
-venue: ICASSP 2018
+venue: ICASSP
 paperurl:
 citation:
 ---
