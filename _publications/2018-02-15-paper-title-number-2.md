@@ -17,16 +17,16 @@ advantage of using the GAN framework has not been established
 for speech enhancement. For example, a recent study
 reports encouraging enhancement results, but we find that the
 architecture of the generator used in the GAN gives better
-performance when it is trained alone using the L1 loss. This
+performance when it is trained alone using the $L_1$ loss. This
 work presents a new GAN for speech enhancement, and obtains
 performance improvement with the help of adversarial
 training. A deep neural network (DNN) is used for timefrequency
 mask estimation, and it is trained in two ways:
-regular training with the L1 loss and training using the GAN
+regular training with the $L_1$ loss and training using the GAN
 framework with the help of an adversary discriminator. Experimental
 results suggest that the GAN framework improves
 speech enhancement performance. Further exploration of loss
-functions, for speech enhancement, suggests that the L1 loss
-is consistently better than the L2 loss for improving the perceptual
+functions, for speech enhancement, suggests that the $L_1$ loss
+is consistently better than the $L_2$ loss for improving the perceptual
 quality of noisy speech.
 ---
