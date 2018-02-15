@@ -20,7 +20,7 @@ architecture of the generator used in the GAN gives better
 performance when it is trained alone using the *L<sub>1</sub>* loss. This
 work presents a new GAN for speech enhancement, and obtains
 performance improvement with the help of adversarial
-training. A deep neural network (DNN) is used for timefrequency
+training. A deep neural network (DNN) is used for time-frequency
 mask estimation, and it is trained in two ways:
 regular training with the *L<sub>1</sub>* loss and training using the GAN
 framework with the help of an adversary discriminator. Experimental
