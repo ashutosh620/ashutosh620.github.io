@@ -1,5 +1,5 @@
 ---
-title: "On Adversarial Training and Loss Functions For Speech Enhancement"
+title: "On Adversarial Training and Loss Functions for Speech Enhancement"
 collection: publications
 permalink: /publication/2018-02-15-paper-title-number-2
 excerpt: 
