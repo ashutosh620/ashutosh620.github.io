@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Tech. in Electronics and Communication Engineering, Indian Institute of Technology Guwahati, 2015
-* Currently Ph.D Student (2016) in Computer Science and Engineering, The Ohio State University
+* Currently Ph.D. Student (2016) in Computer Science and Engineering, The Ohio State University
 
 Work experience
 ======
