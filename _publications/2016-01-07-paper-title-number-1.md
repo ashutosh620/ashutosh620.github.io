@@ -1,5 +1,5 @@
 ---
-title: "SIGNIFICANCE OF GLOTTAL ACTIVITY DETECTION FOR SPEAKER VERIFICATION IN DEGRADED AND LIMITED DATA CONDITION"
+title: "Significance of Glottal Activity Detection for Speaker Verification in Degraded and Limited Data Condition"
 collection: publications
 permalink: /publication/2016-01-07-paper-title-number-1
 excerpt: 
