@@ -29,6 +29,5 @@ the proposed method substantially outperforms the other methods
 of speech enhancement. The proposed approach is easy
 to implement and applicable to related speech processing tasks
 that require spectral mapping or time-frequency (T-F) masking.
-activity detection method in degraded and limited data conditions.
 ---
 [Download paper here]
