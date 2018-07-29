@@ -30,3 +30,4 @@ functions, for speech enhancement, suggests that the *L<sub>1</sub>* loss
 is consistently better than the *L<sub>2</sub>* loss for improving the perceptual
 quality of noisy speech.
 ---
+[Download paper here](http://web.cse.ohio-state.edu/~wang.77//papers/Pandey-Wang.icassp18.pdf)
