@@ -30,4 +30,4 @@ of speech enhancement. The proposed approach is easy
 to implement and applicable to related speech processing tasks
 that require spectral mapping or time-frequency (T-F) masking.
 ---
-[Download paper here]
+[Download paper here](http://web.cse.ohio-state.edu/~wang.77/papers/Pandey-Wang.interspeech18.pdf)
