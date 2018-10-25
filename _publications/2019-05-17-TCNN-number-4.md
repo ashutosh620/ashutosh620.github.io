@@ -1,7 +1,7 @@
 ---
 title: "TCNN: temporal convolutional neural network for real-time speech enhancemnt in the time domain"
 collection: publications
-permalink: /publication/2019-05-17-TCNN
+permalink: /publication/2019-05-17-TCNN-number-4
 excerpt: 
 date: 2019-05-17
 venue:  
