@@ -1,11 +1,11 @@
 ---
 title: "Significance of Glottal Activity Detection for Speaker Verification in Degraded and Limited Data Condition"
 collection: publications
-permalink: /publication/2016-01-07-paper-title-number-1
+permalink: /publication/2016-01-07-GAD-number-1
 excerpt: 
 date: 2015-11-04
-venue: TENCON 2015 - 2015 IEEE Region 10 Conference
-paperurl:
+venue: IEEE TENCON 
+paperurl:http://ashutosh620.github.io/files/GAD.pdf
 citation:
 ---
 Abstract
@@ -27,4 +27,4 @@ The proposed method based on the selection of glottal regions
 is found to perform better than the baseline energy based voice
 activity detection method in degraded and limited data conditions.
 ---
-[Download paper here](http://ashutosh620.github.io/files/paper1.pdf)
+[Download paper here](http://ashutosh620.github.io/files/GAD.pdf)
