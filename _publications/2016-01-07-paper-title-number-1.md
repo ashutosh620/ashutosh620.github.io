@@ -5,7 +5,7 @@ permalink: /publication/2016-01-07-GAD-number-1
 excerpt: 
 date: 2015-11-04
 venue: IEEE TENCON 
-paperurl:http://ashutosh620.github.io/files/GAD.pdf
+paperurl:'http://ashutosh620.github.io/files/GAD.pdf'
 citation:
 ---
 Abstract
