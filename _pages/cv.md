@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+======
 [Downlaod here](http://ashutosh620.github.io/files/CV.pdf)
----
+
 Education
 ======
 * B.Tech. in Electronics and Communication Engineering, Indian Institute of Technology Guwahati, 2015
