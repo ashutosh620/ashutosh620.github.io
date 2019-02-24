@@ -5,7 +5,7 @@ permalink: /publication/2018-05-10-paper-A-New-Framework-for-Speech-Enhancement-
 excerpt: 
 date: 2018-08-06
 venue: Interspeech
-paperurl:
+paperurl: http://web.cse.ohio-state.edu/~wang.77/papers/Pandey-Wang.interspeech18.pdf
 citation:
 ---
 Abstract
@@ -30,4 +30,3 @@ of speech enhancement. The proposed approach is easy
 to implement and applicable to related speech processing tasks
 that require spectral mapping or time-frequency (T-F) masking.
 ---
-[Download paper here](http://web.cse.ohio-state.edu/~wang.77/papers/Pandey-Wang.interspeech18.pdf)
