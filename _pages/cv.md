@@ -18,6 +18,10 @@ Education
 
 Work experience
 ======
+* Summer 2019: Research Internship 
+   * Siri Understanding 
+   * Apple Inc.
+   * Worked on acoustic modeling for automatic speech recognition
 * Summer 2015 to Summer 2016: Research Engineer
   * Aspiring Minds Assessments Private Limited
   
