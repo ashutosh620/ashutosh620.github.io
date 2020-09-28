@@ -18,6 +18,10 @@ Education
 
 Work experience
 ======
+* Summer 2020: Research Internship 
+   * Siri Understanding 
+   * Facebok Inc.
+   * Worked on speech enhancement for robust automatic speech recognition
 * Summer 2019: Research Internship 
    * Siri Understanding 
    * Apple Inc.
