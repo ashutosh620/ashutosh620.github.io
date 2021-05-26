@@ -37,6 +37,13 @@ Work experience
   * Cvest-IIIT Hyderabad
   * Supervisor: [Shubhajit Roy Chowdhury](http://faculty.iitmandi.ac.in/~src/)
 
+
+Awards
+=====
+* Presidential Fellowship, 2021
+  * The Ohio State University
+
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
