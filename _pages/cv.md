@@ -20,11 +20,11 @@ Work experience
 ======
 * **Summer 2021: Research Internship** 
    * Facebook Reality Labs 
-   * Facebok Inc.
+   * Facebook Inc.
    * Worked on end-to-end multichannel speech enhnacement
 * **Summer 2020: Research Internship** 
    * Video ASR 
-   * Facebok Inc.
+   * Facebook Inc.
    * Worked on speech enhancement for robust automatic speech recognition
 * **Summer 2019: Research Internship**
    * Siri Understanding 
