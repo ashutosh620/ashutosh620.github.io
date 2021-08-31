@@ -18,6 +18,10 @@ Education
 
 Work experience
 ======
+* Summer 2021: Research Internship 
+   * Facebook Reality Labs 
+   * Facebok Inc.
+   * Worked on end-to-end multichannel speech enhnacement
 * Summer 2020: Research Internship 
    * Video ASR 
    * Facebok Inc.
