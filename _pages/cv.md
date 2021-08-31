@@ -44,7 +44,7 @@ Work experience
 
 Awards
 =====
-* Presidential Fellowship, 2021
+* **Presidential Fellowship, 2021**
   * The Ohio State University
 
 
