@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Downlaod here](http://ashutosh620.github.io/files/CV.pdf)
+[Download here](http://ashutosh620.github.io/files/CV.pdf)
 
 Education
 ======
