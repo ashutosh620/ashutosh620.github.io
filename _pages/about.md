@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in [Perception and Neurodynamics Laboratory (PNL)](http://web.cse.ohio-state.edu/pnl/) at The Ohio State University, in the department of Computer Science and Engineering (CSE). I am advised by Professor [DeLiang Wang](http://web.cse.ohio-state.edu/~wang.77/). I received my bachelor's degree, Bachelor of Technology (B.Tech.), in Electronics and Communication Engineering from [Indian Institute of Technology, Guwahati](http://www.iitg.ernet.in/).
+I currently serve as a research scientist within the Meta Reality Labs Research Audio team. My educational background includes a Ph.D. in computer science obtained from The Ohio State University, where I had the privilege of being mentored by Professor [DeLiang Wang](http://web.cse.ohio-state.edu/~wang.77/). Additionally, I hold a Bachelor of Technology (B.Tech.) degree in Electronics and Communication Engineering from the [Indian Institute of Technology, Guwahati](http://www.iitg.ernet.in/).
 
-I was awarded **Presidential Fellowship** by The Ohio State University for academic term 2021-2022.
- 
-I am broadly interested in speech enhancement/separation, robust automatic speech recognition, machine learning and deep learning. 
+My primary research focus lies in addressing challenges related to enhancing human listening experiences in demanding conditions, with a keen interest in reducing the cognitive effort required for auditory perception.
